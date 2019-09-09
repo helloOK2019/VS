@@ -1,0 +1,5 @@
+﻿  main.cpp
+  E:\VS2019\mySTL\mySTL\mySTL.h(62) : warning C4715: “CIntList<int>::Delete”: 不是所有的控件路径都返回值
+  E:\VS2019\mySTL\mySTL\mySTL.h(62) : warning C4715: “CIntList<char>::Delete”: 不是所有的控件路径都返回值
+  E:\VS2019\mySTL\mySTL\mySTL.h(62) : warning C4715: “CIntList<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::Delete”: 不是所有的控件路径都返回值
+  mySTL.vcxproj -> E:\VS2019\mySTL\Debug\mySTL.exe

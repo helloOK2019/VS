@@ -1,0 +1,11 @@
+//////////////////////////////////////
+//Author:hello_OK
+//Created：2019/07/17
+//Describe:测试头文件格式
+//////////////////////////////////////
+#ifndef _TQ_hello_H
+#define _TQ_hello_H
+
+void func();
+
+#endif // !1

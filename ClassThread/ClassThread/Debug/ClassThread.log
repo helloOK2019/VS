@@ -1,0 +1,3 @@
+﻿  ClassThread.cpp
+E:\VS2019\ClassThread\ClassThread\ClassThread.cpp(26,10): warning C4091:  “”: 没有声明变量时忽略“MyClass”的左侧
+  ClassThread.vcxproj -> E:\VS2019\ClassThread\Debug\ClassThread.exe

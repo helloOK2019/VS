@@ -1,0 +1,3 @@
+﻿  Select.cpp
+E:\VS2019\Select\Select\Select.cpp(64,13): warning C4477:  “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“SOCKET *”
+  Select.vcxproj -> E:\VS2019\Select\Debug\Select.exe
